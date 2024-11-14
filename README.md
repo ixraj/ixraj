@@ -5,7 +5,7 @@
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityxrajj" alt="adityxrajj" /></a> </p>
 
 ## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=adityxrajj&show_icons=true&locale=en" alt="adityxrajj" /></p>
+<p><img align="left" width="100px" src="https://github-readme-stats.vercel.app/api?username=adityxrajj&show_icons=true&locale=en" alt="adityxrajj" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityxrajj&" alt="adityxrajj" /></p>
 
 ---
