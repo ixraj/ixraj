@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats:
 <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=adityxrajj&show_icons=true&locale=en" alt="adityxrajj" /></p>
-<p><img align="centre" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityxrajj&" alt="adityxrajj" /></p>
+<p><img align="centre" width="49%" src="[https://github-readme-streak-stats.herokuapp.com/?user=adityxrajj](https://github-readme-streak-stats.herokuapp.com/?user=adityxrajj)&" alt="adityxrajj" /></p>
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityxrajj&label=Profile%20views&color=0e75b6&style=flat" alt="adityxrajj" /> </p>
