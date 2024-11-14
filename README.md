@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">"🚀 Aspiring coder, exploring the world of code one line at a time. Passionate about learning, building, and growing through every project. Let's code the future!"</h3>
+# Hi 👋, I'm Aditya Raj
+<br>🚀 Aspiring coder, exploring the world of code one line at a time. Passionate about learning, building, and growing through every project. Let's code the future! <br>
 
-# Hi, I'm Aditya! 👋
+## 🏆 GitHub Trophies
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityxrajj" alt="adityxrajj" /></a> </p>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adityxrajj)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adityxrajj)<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=adityxrajj&show_icons=true&locale=en" alt="adityxrajj" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityxrajj&" alt="adityxrajj" /></p>
+
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityxrajj&label=Profile%20views&color=0e75b6&style=flat" alt="adityxrajj" /> </p>
