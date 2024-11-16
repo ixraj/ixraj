@@ -16,4 +16,4 @@
 <p><img align="centre" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityxrajj&" alt="adityxrajj" /></p>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityxrajj&label=Profile%20views&color=0e75b6&style=flat" alt="adityxrajj" /> </p>
+<p align="left"> <img width="130px" src="https://komarev.com/ghpvc/?username=adityxrajj&label=Profile%20views&color=0e75b6&style=flat" alt="adityxrajj" /> </p>
