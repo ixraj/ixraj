@@ -22,3 +22,7 @@
 
 ---
 <p align="left"> <img width="130px" src="https://komarev.com/ghpvc/?username=adityxrajj&label=Profile%20views&color=0e75b6&style=flat" alt="adityxrajj" /> </p>
+
+
+
+<!-- [![](https://visitcount.itsvg.in/api?id=adityxrajj&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in) -->
