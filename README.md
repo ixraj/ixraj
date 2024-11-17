@@ -16,20 +16,9 @@
 <p><img align="centre" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityxrajj&" alt="adityxrajj" /></p>
 
 ## 🌎 Socials:
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/adityxrajj)&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/adityxrajj)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adityaraj5/)&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/adityaraj_5)&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=linkdin)](https://www.linkedin.com/in/adityaraj5/)&nbsp;
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />(https://skillicons.dev)
-  </a>
-</p>
 
 ---
 <p align="left"> <img width="130px" src="https://komarev.com/ghpvc/?username=adityxrajj&label=Profile%20views&color=0e75b6&style=flat" alt="adityxrajj" /> </p>
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=github)](https://instagram.com)&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
