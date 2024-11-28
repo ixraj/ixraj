@@ -1,37 +1,22 @@
-# Hi 👋, I'm Aditya Raj <br />
-🚀 Aspiring coder, exploring the world of code one line at a time. Passionate about learning, building, and growing through every project. Let's code the future! <br />
+# Hi 👋, I'm Aditya Raj
+I'm an aspiring coder, exploring the world of programming one line at a time. Passionate about learning, building, and growing through every project. Let's code the future! 🚀<br>
 
-## 🧑‍💻 Languages and Tools:
 <p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,git,js,github,css," />
+        <img src="https://skillicons.dev/icons?i=html,js,css,git,github" />
     </a>
 </p>
 
-## 🏆 GitHub Trophies
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityxrajj" alt="adityxrajj" /></a>
-</p>
+<a href="https://github.com/adityxrajj"><img width="110" src="https://komarev.com/ghpvc/?username=adityxrajj&label=Profile%20views&color=6064f0&style=flat" alt="adityxrajj" /></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/currently-offline-b16e3d"></a>
+<a href="https://x.com/adityaraj_5"><img alt="Static Badge" src="https://img.shields.io/badge/twitter-%40adityaraj__5-333333"></a>
+<a href="https://www.linkedin.com/in/adityaraj5/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-in%2Fadityaraj5-0072b1"></a>
+<br>
 
-## 📊 GitHub Stats:
-<p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=adityxrajj&show_icons=true&locale=en" alt="adityxrajj" /></p>
-<p><img align="centre" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityxrajj&" alt="adityxrajj" /></p>
-<p><img align="centre" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityxrajj&show_icons=true&locale=en&layout=compact" alt="adityxrajj" /></p>
+<details>
+  <summary>Github Stats ⚡</summary>
 
-<!-- ## 🌎 Socials:
-<p>
-    <a href="https://www.linkedin.com/in/adityaraj5/">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-    <a href="https://github.com/adityxrajj">
-        <img src="https://skillicons.dev/icons?i=github" />
-    </a>
-    <a href="https://x.com/adityaraj_5">
-        <img src="https://skillicons.dev/icons?i=twitter" />
-    </a>
-</p> -->
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=adityxrajj&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityxrajj&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
----
-<p align="left"><img width="130px" src="https://komarev.com/ghpvc/?username=adityxrajj&label=Profile%20views&color=0e75b6&style=flat" alt="adityxrajj" /></p>
-
-<!-- [![](https://visitcount.itsvg.in/api?id=adityxrajj&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in) -->
+</details>
