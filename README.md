@@ -16,6 +16,6 @@ I'm an aspiring coder, exploring the world of programming one line at a time. Pa
 <details>
   <summary>Github Stats ⚡</summary>
 
-   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=adityxrajj&rank_icon=github&bg_color=1e1e1e&count_private=true&hide_border=true&line_height=20&text_color=fff&title_color=6da6f2)</a>
-   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityxrajj&layout=compact&bg_color=1e1e1e&count_private=true&border_color=0d1117&text_color=fff&title_color=6da6f2)</a>
+   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=adityxrajj&rank_icon=github&bg_color=1e1e1e&count_private=true&hide_border=true&line_height=20&text_color=fff&title_color=151b23)</a>
+   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityxrajj&layout=compact&bg_color=1e1e1e&count_private=true&border_color=0d1117&text_color=fff&title_color=151b23)</a>
 </details>
