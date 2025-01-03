@@ -1,7 +1,7 @@
 # Hey There! 👋
 **I'm Aditya** - I'm an aspiring coder, exploring the world of programming one line at a time. Passionate about learning, building, and growing through every project. Let's code the future!<br>
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,github,git)](https://skillicons.dev)
+![SkillIcons](https://skillicons.dev/icons?i=js,html,css,github,git)
 
 ![view-count](https://komarev.com/ghpvc/?username=adityxrajj&label=Profile%20views&color=5d69e8&style=flat)
 ![status](https://img.shields.io/badge/currently-offline-ee8844?style=flat)
